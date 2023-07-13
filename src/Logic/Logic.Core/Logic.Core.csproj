@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>MonitorsHelper</Title>
+    <Authors>Mahmoud Fakhoury</Authors>
+    <Copyright>Mahmoud Fakhoury</Copyright>
+    <RepositoryUrl>https://github.com/hhu-mahmoud/MonitorsHelper</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+</Project>
