@@ -10,5 +10,6 @@ Install:
 - Build the project
 - Run the Ui.SampleDesktopApp to test the library
 
+![grafik](https://github.com/hhu-mahmoud/MonitorsHelper/assets/32834850/9622a6e3-fdf6-4b16-a326-5d5d935c2327)
 
 If you like it please star it :) 
